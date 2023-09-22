@@ -189,6 +189,10 @@
   - 분류: `오프라인`, `유니티`
   - 주최: 유니티
   - 일시: 10. 05(목)
+- __[파이콘 한국 부산 세미나](https://event-us.kr/pyconkr/event/71494)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: 파이콘 한국 준비위원회
+  - 일시: 10. 08(일) 13:00 ~ 18:00
 - __[숭실대학교 GPT 세미나](https://docs.google.com/forms/d/e/1FAIpQLScSMXbC7DhiMiessHxc_oE5QWQvNtX7JGxA9gAR2uJHDBgcIQ/viewform)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 숭실대학교
